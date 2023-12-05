@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "Daemon"
+		},
+		{
+			"path": "MCSManager"
+		},
+		{
+			"path": "UI"
+		}
+	]
+}
